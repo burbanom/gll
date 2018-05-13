@@ -6,9 +6,9 @@ using the package manager of your linux distro, e.g. sudo apt-get install PACKAG
 To detect the devices that are connected to it we run the 
 following command:
 sudo i2cdetect -y -r 2
-The following output is obtained:
+The following output is obtained:  
   
-     0  1  2  3  4  5  6  7  8  9  a  b  c  d  e  f
+     0  1  2  3  4  5  6  7  8  9  a  b  c  d  e  f  
 00:          -- -- -- -- -- -- -- -- -- -- -- -- -- 
 10: -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- 
 20: -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- 
